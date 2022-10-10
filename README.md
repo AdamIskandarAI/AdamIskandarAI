@@ -1,4 +1,8 @@
-Hi, I’m @AdamIskandarAI
+## Hello world, I'm Adam Iskandar (a.k.a @AdamIskandarAI)
 
-I'm one of [VueTube](https://github.com/VueTubeApp/VueTube) translator.
-I might actually contribute to a repo someday so, stay tuned!
+- I am a teenager from Malaysia
+- I'm currently contributing to [VueTube](https://github.com/VueTubeApp/VueTube) repo.
+
+## My projects (sorted by popularity)
+
+- [VueTube (Translator)](https://github.com/VueTubeApp/VueTube)
